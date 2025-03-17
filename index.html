@@ -6,10 +6,15 @@
     <title>DBZ</title>
 </head>
 <body>
-    <img src="" id="img" style="height: 500px;">
+    <img src="" id="img" style="height: 400px;">
     <h1 id="nomePersonagem">...</h1>
     <h2 id="raca">...</h2>
     <h3 id="ki">...</h3>
+    <h2>Transformações:</h2>
+    <h3 id="transf">...</h3>
+    <h3 id="transf1">...</h3>
+    <h3 id="transf2">...</h3>
+    <h3 id="transf3">...</h3>
     
 </body>
 </html>
@@ -30,10 +35,18 @@ async function getData() {
       console.log(json.name)
       console.log(json.race)
       console.log(json.ki)
+      console.log(json.transformations[0].name)
+      console.log(json.transformations[1].name)
+      console.log(json.transformations[2].name)
+      console.log(json.transformations[3].name)
       document.getElementById('nomePersonagem').innerText = json.name;
       document.getElementById('raca').innerText = json.race;
       document.getElementById('ki').innerText = json.ki;
       document.getElementById('img').src = json.image;
+      document.getElementById('transf').innerText = json.transformations[0].name;
+      document.getElementById('transf1').innerText = json.transformations[1].name;
+      document.getElementById('transf2').innerText = json.transformations[2].name;
+      document.getElementById('transf3').innerText = json.transformations[3].name;
       
 
 
