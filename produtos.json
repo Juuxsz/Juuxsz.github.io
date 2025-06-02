@@ -1,0 +1,100 @@
+{
+    "nome": "Tia Van",
+    "categorias": [
+      {
+        "id": "lanches",
+        "nome": "Lanches",
+        "icone": "🍔",
+        "imagem": "https://via.placeholder.com/100"
+      },
+      {
+        "id": "salgados",
+        "nome": "Salgados",
+        "icone": "🥐",
+        "imagem": "https://via.placeholder.com/100"
+      },
+      {
+        "id": "gelinhos",
+        "nome": "Gelinhos",
+        "icone": "❄️",
+        "imagem": "https://via.placeholder.com/100"
+      },
+      {
+        "id": "bolos",
+        "nome": "Bolos",
+        "icone": "🍰",
+        "imagem": "https://via.placeholder.com/100"
+      },
+      {
+        "id": "trufas",
+        "nome": "Trufas",
+        "icone": "🍫",
+        "imagem": "https://via.placeholder.com/100"
+      },
+      {
+        "id": "bebidas",
+        "nome": "Bebidas",
+        "icone": "🥤",
+        "imagem": "https://via.placeholder.com/100"
+      }
+    ],
+    "itens": [
+      {
+        "id": 1,
+        "categoriaId": "lanches",
+        "nome": "Lanche natural",
+        "descricao": "Delicioso lanche natural",
+        "preco": 10.00,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "categoriaId": "salgados",
+        "nome": "Coxinha de frango",
+        "descricao": "Deliciosa coxinha de frango",
+        "preco": 5.50,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 3,
+        "categoriaId": "gelinhos",
+        "nome": "Gelinho de morango",
+        "descricao": "Delicioso gelinho sabor morango",
+        "preco": 3.50,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 4,
+        "categoriaId": "bolos",
+        "nome": "Bolo de cenoura",
+        "descricao": "Fofinho e delicioso com cobertura de chocolate",
+        "preco": 6.00,
+        "imagem": "https://via.placeholder.com/150"
+      },
+       {
+        "id": 5,
+        "categoriaId": "bolos",
+        "nome": "Bolo de morango",
+        "descricao": "Fofinho e delicioso com cobertura de morango bbbbbbbbbbbbbbbbbbbbbbb",
+        "preco": 6.00,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 6,
+        "categoriaId": "trufas",
+        "nome": "Trufa de chocolate",
+        "descricao": "Trufa recheada com brigadeiro",
+        "preco": 2.50,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 7,
+        "categoriaId": "bebidas",
+        "nome": "Suco natural",
+        "descricao": "Suco de laranja 100% natural",
+        "preco": 4.00,
+        "imagem": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
