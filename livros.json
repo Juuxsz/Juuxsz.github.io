@@ -1,0 +1,215 @@
+{
+    "library": [
+      {
+        "name": "Drácula",
+        "description": "O clássico romance gótico sobre o vampiro Conde Drácula.",
+        "category": "Terror",
+        "rating": 4.8,
+        "price": 39.90
+      },
+      {
+        "name": "It: A Coisa",
+        "description": "Um grupo de amigos enfrenta uma entidade maligna em Derry.",
+        "category": "Terror",
+        "rating": 4.7,
+        "price": 49.90
+      },
+      {
+        "name": "O Iluminado",
+        "description": "Uma família isolada em um hotel assombrado durante o inverno.",
+        "category": "Terror",
+        "rating": 4.6,
+        "price": 44.90
+      },
+      {
+        "name": "Dom Casmurro",
+        "description": "A história de Bentinho e Capitu, marcada por ciúmes e dúvidas.",
+        "category": "Romance",
+        "rating": 4.3,
+        "price": 29.90
+      },
+      {
+        "name": "Orgulho e Preconceito",
+        "description": "Elizabeth Bennet enfrenta os costumes da sociedade inglesa.",
+        "category": "Romance",
+        "rating": 4.9,
+        "price": 34.90
+      },
+      {
+        "name": "O Morro dos Ventos Uivantes",
+        "description": "Uma história intensa de amor e vingança.",
+        "category": "Romance",
+        "rating": 4.5,
+        "price": 31.50
+      },
+      {
+        "name": "O Código Da Vinci",
+        "description": "Um simbologista desvenda um assassinato ligado à história secreta do Santo Graal.",
+        "category": "Suspense",
+        "rating": 4.4,
+        "price": 42.00
+      },
+      {
+        "name": "Garota Exemplar",
+        "description": "Uma mulher desaparece no dia do aniversário de casamento.",
+        "category": "Suspense",
+        "rating": 4.2,
+        "price": 38.70
+      },
+      {
+        "name": "O Silêncio dos Inocentes",
+        "description": "Uma jovem agente do FBI busca a ajuda de um serial killer para capturar outro.",
+        "category": "Suspense",
+        "rating": 4.6,
+        "price": 47.90
+      },
+      {
+        "name": "Harry Potter e a Pedra Filosofal",
+        "description": "O jovem Harry descobre que é um bruxo e vai para Hogwarts.",
+        "category": "Fantasia",
+        "rating": 4.9,
+        "price": 39.99
+      },
+      {
+        "name": "O Senhor dos Anéis: A Sociedade do Anel",
+        "description": "Frodo parte em uma jornada para destruir o Um Anel.",
+        "category": "Fantasia",
+        "rating": 4.8,
+        "price": 59.90
+      },
+      {
+        "name": "As Crônicas de Nárnia",
+        "description": "Crianças entram em um mundo mágico através de um guarda-roupa.",
+        "category": "Fantasia",
+        "rating": 4.7,
+        "price": 45.00
+      },
+      {
+        "name": "Duna",
+        "description": "Em um planeta desértico, casas nobres disputam o controle de um recurso vital.",
+        "category": "Ficção Científica",
+        "rating": 4.7,
+        "price": 64.90
+      },
+      {
+        "name": "Fundação",
+        "description": "A humanidade enfrenta o colapso do Império Galáctico.",
+        "category": "Ficção Científica",
+        "rating": 4.5,
+        "price": 48.00
+      },
+      {
+        "name": "Neuromancer",
+        "description": "Um hacker é recrutado para uma missão misteriosa no ciberespaço.",
+        "category": "Ficção Científica",
+        "rating": 4.4,
+        "price": 35.00
+      },
+      {
+        "name": "Batman: A Piada Mortal",
+        "description": "O Coringa tenta provar um ponto através de um jogo mortal com o Comissário Gordon.",
+        "category": "Quadrinhos",
+        "rating": 4.8,
+        "price": 32.90
+      },
+      {
+        "name": "Watchmen",
+        "description": "Heróis mascarados enfrentam conspirações em um mundo alternativo.",
+        "category": "Quadrinhos",
+        "rating": 4.9,
+        "price": 55.00
+      },
+      {
+        "name": "Sandman: Prelúdios e Noturnos",
+        "description": "A história de Sonho e seu reino surreal.",
+        "category": "Quadrinhos",
+        "rating": 4.7,
+        "price": 49.90
+      },
+      {
+        "name": "Homem-Aranha: A Última Caçada de Kraven",
+        "description": "Kraven tenta provar que é superior ao herói.",
+        "category": "Quadrinhos",
+        "rating": 4.6,
+        "price": 36.90
+      },
+      {
+        "name": "V de Vingança",
+        "description": "Um anarquista mascarado luta contra um governo autoritário.",
+        "category": "Quadrinhos",
+        "rating": 4.8,
+        "price": 42.90
+      },
+      {
+        "name": "A Revolução dos Bichos",
+        "description": "Uma fábula política sobre uma revolução animal.",
+        "category": "Fábula / Política",
+        "rating": 4.6,
+        "price": 28.90
+      },
+      {
+        "name": "1984",
+        "description": "Um regime totalitário vigia e controla todos os aspectos da vida.",
+        "category": "Distopia",
+        "rating": 4.9,
+        "price": 39.50
+      },
+      {
+        "name": "Admirável Mundo Novo",
+        "description": "Uma sociedade controlada por tecnologia e engenharia genética.",
+        "category": "Distopia",
+        "rating": 4.4,
+        "price": 34.00
+      },
+      {
+        "name": "Percy Jackson e o Ladrão de Raios",
+        "description": "Um jovem semideus descobre seu verdadeiro destino.",
+        "category": "Fantasia",
+        "rating": 4.5,
+        "price": 29.90
+      },
+      {
+        "name": "Coraline",
+        "description": "Uma menina descobre um mundo alternativo e assustador.",
+        "category": "Terror",
+        "rating": 4.3,
+        "price": 27.90
+      },
+      {
+        "name": "Maze Runner: Correr ou Morrer",
+        "description": "Adolescentes presos em um labirinto tentam escapar.",
+        "category": "Suspense",
+        "rating": 4.2,
+        "price": 35.00
+      },
+      {
+        "name": "Cemitério Maldito",
+        "description": "Uma família descobre que a morte pode não ser o fim.",
+        "category": "Terror",
+        "rating": 4.4,
+        "price": 41.90
+      },
+      {
+        "name": "Eleanor & Park",
+        "description": "Dois adolescentes se apaixonam contra todas as probabilidades.",
+        "category": "Romance",
+        "rating": 4.3,
+        "price": 33.90
+      },
+      {
+        "name": "Saga - Volume 1",
+        "description": "Uma space opera sobre amor e guerra intergaláctica.",
+        "category": "Quadrinhos",
+        "rating": 4.7,
+        "price": 44.90
+      },
+      {
+        "name": "Akira - Volume 1",
+        "description": "Uma Tóquio pós-apocalíptica marcada por poderes psíquicos.",
+        "category": "Quadrinhos",
+        "rating": 4.8,
+        "price": 59.90
+      }
+    ]
+  }
+  
