@@ -1,215 +1,209 @@
 {
-    "library": [
-      {
-        "name": "Drácula",
-        "description": "O clássico romance gótico sobre o vampiro Conde Drácula.",
-        "category": "Terror",
-        "rating": 4.8,
-        "price": 39.90
-      },
-      {
-        "name": "It: A Coisa",
-        "description": "Um grupo de amigos enfrenta uma entidade maligna em Derry.",
-        "category": "Terror",
-        "rating": 4.7,
-        "price": 49.90
-      },
-      {
-        "name": "O Iluminado",
-        "description": "Uma família isolada em um hotel assombrado durante o inverno.",
-        "category": "Terror",
-        "rating": 4.6,
-        "price": 44.90
-      },
-      {
-        "name": "Dom Casmurro",
-        "description": "A história de Bentinho e Capitu, marcada por ciúmes e dúvidas.",
-        "category": "Romance",
-        "rating": 4.3,
-        "price": 29.90
-      },
-      {
-        "name": "Orgulho e Preconceito",
-        "description": "Elizabeth Bennet enfrenta os costumes da sociedade inglesa.",
-        "category": "Romance",
-        "rating": 4.9,
-        "price": 34.90
-      },
-      {
-        "name": "O Morro dos Ventos Uivantes",
-        "description": "Uma história intensa de amor e vingança.",
-        "category": "Romance",
-        "rating": 4.5,
-        "price": 31.50
-      },
-      {
-        "name": "O Código Da Vinci",
-        "description": "Um simbologista desvenda um assassinato ligado à história secreta do Santo Graal.",
-        "category": "Suspense",
-        "rating": 4.4,
-        "price": 42.00
-      },
-      {
-        "name": "Garota Exemplar",
-        "description": "Uma mulher desaparece no dia do aniversário de casamento.",
-        "category": "Suspense",
-        "rating": 4.2,
-        "price": 38.70
-      },
-      {
-        "name": "O Silêncio dos Inocentes",
-        "description": "Uma jovem agente do FBI busca a ajuda de um serial killer para capturar outro.",
-        "category": "Suspense",
-        "rating": 4.6,
-        "price": 47.90
-      },
-      {
-        "name": "Harry Potter e a Pedra Filosofal",
-        "description": "O jovem Harry descobre que é um bruxo e vai para Hogwarts.",
-        "category": "Fantasia",
-        "rating": 4.9,
-        "price": 39.99
-      },
-      {
-        "name": "O Senhor dos Anéis: A Sociedade do Anel",
-        "description": "Frodo parte em uma jornada para destruir o Um Anel.",
-        "category": "Fantasia",
-        "rating": 4.8,
-        "price": 59.90
-      },
-      {
-        "name": "As Crônicas de Nárnia",
-        "description": "Crianças entram em um mundo mágico através de um guarda-roupa.",
-        "category": "Fantasia",
-        "rating": 4.7,
-        "price": 45.00
-      },
-      {
-        "name": "Duna",
-        "description": "Em um planeta desértico, casas nobres disputam o controle de um recurso vital.",
-        "category": "Ficção Científica",
-        "rating": 4.7,
-        "price": 64.90
-      },
-      {
-        "name": "Fundação",
-        "description": "A humanidade enfrenta o colapso do Império Galáctico.",
-        "category": "Ficção Científica",
-        "rating": 4.5,
-        "price": 48.00
-      },
-      {
-        "name": "Neuromancer",
-        "description": "Um hacker é recrutado para uma missão misteriosa no ciberespaço.",
-        "category": "Ficção Científica",
-        "rating": 4.4,
-        "price": 35.00
-      },
-      {
-        "name": "Batman: A Piada Mortal",
-        "description": "O Coringa tenta provar um ponto através de um jogo mortal com o Comissário Gordon.",
-        "category": "Quadrinhos",
-        "rating": 4.8,
-        "price": 32.90
-      },
-      {
-        "name": "Watchmen",
-        "description": "Heróis mascarados enfrentam conspirações em um mundo alternativo.",
-        "category": "Quadrinhos",
-        "rating": 4.9,
-        "price": 55.00
-      },
-      {
-        "name": "Sandman: Prelúdios e Noturnos",
-        "description": "A história de Sonho e seu reino surreal.",
-        "category": "Quadrinhos",
-        "rating": 4.7,
-        "price": 49.90
-      },
-      {
-        "name": "Homem-Aranha: A Última Caçada de Kraven",
-        "description": "Kraven tenta provar que é superior ao herói.",
-        "category": "Quadrinhos",
-        "rating": 4.6,
-        "price": 36.90
-      },
-      {
-        "name": "V de Vingança",
-        "description": "Um anarquista mascarado luta contra um governo autoritário.",
-        "category": "Quadrinhos",
-        "rating": 4.8,
-        "price": 42.90
-      },
-      {
-        "name": "A Revolução dos Bichos",
-        "description": "Uma fábula política sobre uma revolução animal.",
-        "category": "Fábula / Política",
-        "rating": 4.6,
-        "price": 28.90
-      },
-      {
-        "name": "1984",
-        "description": "Um regime totalitário vigia e controla todos os aspectos da vida.",
-        "category": "Distopia",
-        "rating": 4.9,
-        "price": 39.50
-      },
-      {
-        "name": "Admirável Mundo Novo",
-        "description": "Uma sociedade controlada por tecnologia e engenharia genética.",
-        "category": "Distopia",
-        "rating": 4.4,
-        "price": 34.00
-      },
-      {
-        "name": "Percy Jackson e o Ladrão de Raios",
-        "description": "Um jovem semideus descobre seu verdadeiro destino.",
-        "category": "Fantasia",
-        "rating": 4.5,
-        "price": 29.90
-      },
-      {
-        "name": "Coraline",
-        "description": "Uma menina descobre um mundo alternativo e assustador.",
-        "category": "Terror",
-        "rating": 4.3,
-        "price": 27.90
-      },
-      {
-        "name": "Maze Runner: Correr ou Morrer",
-        "description": "Adolescentes presos em um labirinto tentam escapar.",
-        "category": "Suspense",
-        "rating": 4.2,
-        "price": 35.00
-      },
-      {
-        "name": "Cemitério Maldito",
-        "description": "Uma família descobre que a morte pode não ser o fim.",
-        "category": "Terror",
-        "rating": 4.4,
-        "price": 41.90
-      },
-      {
-        "name": "Eleanor & Park",
-        "description": "Dois adolescentes se apaixonam contra todas as probabilidades.",
-        "category": "Romance",
-        "rating": 4.3,
-        "price": 33.90
-      },
-      {
-        "name": "Saga - Volume 1",
-        "description": "Uma space opera sobre amor e guerra intergaláctica.",
-        "category": "Quadrinhos",
-        "rating": 4.7,
-        "price": 44.90
-      },
-      {
-        "name": "Akira - Volume 1",
-        "description": "Uma Tóquio pós-apocalíptica marcada por poderes psíquicos.",
-        "category": "Quadrinhos",
-        "rating": 4.8,
-        "price": 59.90
-      }
-    ]
-  }
-  
+  "library": [
+    {
+      "name": "Drácula",
+      "description": "O clássico romance gótico sobre o vampiro Conde Drácula.",
+      "category": "Terror",
+      "rating": 4.8,
+      "price": 39.90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dracula_1st_ed_cover.jpg"
+    },
+    {
+      "name": "It: A Coisa",
+      "description": "Um grupo de amigos enfrenta uma entidade maligna em Derry.",
+      "category": "Terror",
+      "rating": 4.7,
+      "price": 49.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_cover.jpg"
+    },
+    {
+      "name": "O Iluminado",
+      "description": "Um escritor e sua família enfrentam forças sobrenaturais num hotel isolado.",
+      "category": "Terror",
+      "rating": 4.6,
+      "price": 44.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Shining_-_First_Edition_Cover.jpg"
+    },
+    {
+      "name": "American Vampire",
+      "description": "Quadrinhos que misturam vampiros com o Velho Oeste e o mundo moderno.",
+      "category": "Terror",
+      "rating": 4.5,
+      "price": 59.90,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81h5s3NgIpL.jpg"
+    },
+    {
+      "name": "Sandman",
+      "description": "A saga do senhor dos sonhos em uma mistura de fantasia, horror e mitologia.",
+      "category": "Terror",
+      "rating": 4.9,
+      "price": 79.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Sandman_Volume_1_Collection_Cover.jpg"
+    },
+
+    {
+      "name": "Orgulho e Preconceito",
+      "description": "Clássico romance inglês sobre amor e preconceitos sociais.",
+      "category": "Romance",
+      "rating": 4.7,
+      "price": 34.90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/PrideAndPrejudiceTitlePage.jpg"
+    },
+    {
+      "name": "Querido John",
+      "description": "História de amor entre um soldado e uma jovem durante a guerra.",
+      "category": "Romance",
+      "rating": 4.4,
+      "price": 29.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Dear_John_novel_cover.jpg"
+    },
+    {
+      "name": "Como Eu Era Antes de Você",
+      "description": "Romance emocionante entre uma cuidadora e um homem tetraplégico.",
+      "category": "Romance",
+      "rating": 4.5,
+      "price": 39.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Me_Before_You_novel_cover.jpg"
+    },
+    {
+      "name": "Saga",
+      "description": "Quadrinho épico de ficção científica e romance intergaláctico.",
+      "category": "Romance",
+      "rating": 4.8,
+      "price": 69.90,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91TaD9hZcUL.jpg"
+    },
+    {
+      "name": "Bone",
+      "description": "Aventuras cômicas e fantásticas dos primos Bone em uma terra estranha.",
+      "category": "Romance",
+      "rating": 4.6,
+      "price": 54.90,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91QBWz6VkzL.jpg"
+    },
+
+    {
+      "name": "Garota Exemplar",
+      "description": "Mistério e suspense envolvendo desaparecimento e segredos de um casamento.",
+      "category": "Suspense",
+      "rating": 4.7,
+      "price": 37.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Gone_Girl_%28Flynn_novel_-_cover_art%29.jpg"
+    },
+    {
+      "name": "O Código Da Vinci",
+      "description": "Caça ao tesouro e mistérios ligados à arte e religião.",
+      "category": "Suspense",
+      "rating": 4.5,
+      "price": 42.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/The_Da_Vinci_Code.jpg"
+    },
+    {
+      "name": "Sherlock Holmes: Um Estudo em Vermelho",
+      "description": "Primeira aventura do famoso detetive Sherlock Holmes.",
+      "category": "Suspense",
+      "rating": 4.8,
+      "price": 31.90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ArthurConanDoyle-Rathbone.jpg"
+    },
+    {
+      "name": "Locke & Key",
+      "description": "Quadrinhos de mistério e horror envolvendo chaves mágicas.",
+      "category": "Suspense",
+      "rating": 4.6,
+      "price": 64.90,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81k3ysH+Q-L.jpg"
+    },
+    {
+      "name": "The Walking Dead",
+      "description": "Quadrinhos sobre um apocalipse zumbi e a luta pela sobrevivência.",
+      "category": "Suspense",
+      "rating": 4.7,
+      "price": 74.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Walking_Dead_Volume_1.jpg"
+    },
+
+    {
+      "name": "O Senhor dos Anéis: A Sociedade do Anel",
+      "description": "Início da jornada para destruir o Um Anel e salvar a Terra Média.",
+      "category": "Fantasia",
+      "rating": 4.9,
+      "price": 59.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Fellowship_of_the_Ring_cover.gif"
+    },
+    {
+      "name": "Harry Potter e a Pedra Filosofal",
+      "description": "O começo da aventura do jovem bruxo em Hogwarts.",
+      "category": "Fantasia",
+      "rating": 4.8,
+      "price": 45.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg"
+    },
+    {
+      "name": "O Hobbit",
+      "description": "Bilbo Bolseiro parte em uma jornada para recuperar um tesouro roubado.",
+      "category": "Fantasia",
+      "rating": 4.7,
+      "price": 39.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg"
+    },
+    {
+      "name": "Wonder Woman: Warbringer",
+      "description": "A origem e aventuras da Mulher-Maravilha em graphic novel.",
+      "category": "Fantasia",
+      "rating": 4.6,
+      "price": 49.90,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Pup3U9s1L.jpg"
+    },
+    {
+      "name": "Sandman: Prelúdios e Noturnos",
+      "description": "Histórias iniciais da série de fantasia sombria Sandman.",
+      "category": "Fantasia",
+      "rating": 4.9,
+      "price": 69.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Sandman_Volume_1_Collection_Cover.jpg"
+    },
+
+    {
+      "name": "A Culpa é das Estrelas",
+      "description": "Romance jovem adulto sobre amor e doença terminal.",
+      "category": "Drama",
+      "rating": 4.6,
+      "price": 34.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Fault_in_Our_Stars.jpg"
+    },
+    {
+      "name": "Extraordinário",
+      "description": "História emocionante de um garoto com diferenças faciais enfrentando o mundo.",
+      "category": "Drama",
+      "rating": 4.7,
+      "price": 29.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Wonder_book.jpg"
+    },
+    {
+      "name": "O Diário de Anne Frank",
+      "description": "Relato verdadeiro do esconderijo de Anne Frank durante a Segunda Guerra.",
+      "category": "Drama",
+      "rating": 4.8,
+      "price": 39.90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Anne_Frank_house.jpg"
+    },
+    {
+      "name": "Maus",
+      "description": "Quadrinho que retrata o Holocausto de forma impactante e sensível.",
+      "category": "Drama",
+      "rating": 4.9,
+      "price": 59.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Maus_cover.jpg"
+    },
+    {
+      "name": "Persepolis",
+      "description": "Memórias em quadrinhos da infância e adolescência no Irã durante a revolução.",
+      "category": "Drama",
+      "rating": 4.8,
+      "price": 49.90,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Persepolis-book-cover.jpg"
+    },
+
+    {
+      "name": "
